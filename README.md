@@ -1,5 +1,5 @@
-# sql
-Exercícios de SQL para fixação de conteúdo dos integrantes do Desenvolve
+# Banco de dados
+Exercícios de banco de dados para fixação de conteúdo dos integrantes do Desenvolve
 
 Estrutura da organização dos diretórios:
 
