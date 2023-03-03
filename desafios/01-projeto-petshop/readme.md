@@ -3,7 +3,7 @@
 Você trabalha em uma empresa que faz consultoria de TI e ficou encarregado de desenhar uma base dados para as franquias de uma rede de petshop, imagine a Petz para facilitar a compreensão. Após uma série de reuniões para elicitação dos requisitos seu gerente de projetos te apresenta a seguinte lista de requisitos para a base:
 
 
-Olá, nós armazenar os seguintes domínios de dados:
+Olá, nós precisamos armazenar os seguintes domínios de dados:
 - Cadastro de produtos: código, nome, data de cadastro, categoria, valor, data de validade e código do fornecedor
 - Cadastro de clientes: código, nome, data de nascimento, email, telefone, endereço
 - Cadastro de fornecedores: código, nome, telefone, endereço
