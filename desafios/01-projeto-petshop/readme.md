@@ -24,7 +24,7 @@ Com base nessas informações realize a criação do modelo de dados ER junto co
 │   ├── insert_vendas.sql
 │   ├── ...
 │   └── <operacao>.<tabela>.sql
-│diagrama.<jpg/png/svg>
+└── diagrama.<jpg/png/svg>
 ```
 
 O que te diferencia nessa atividade: utilize corretamente dos tipos de dados para suas tabelas junto com regras de restrição de integridade: _primary keys_, _foreign keys_, _not nulls_ e todas as demais soluções que o SGBD de escolha forneça para enriquecer sua solução.
