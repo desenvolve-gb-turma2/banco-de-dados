@@ -19,7 +19,7 @@ Com base nessas informações realize a criação do modelo de dados ER junto co
 │   ├── create_vendas.sql
 │   ├── ...
 │   └── <operacao>.<tabela>.sql
-├── ddl/
+├── dml/
 │   ├── insert_produtos.sql
 │   ├── insert_vendas.sql
 │   ├── ...
